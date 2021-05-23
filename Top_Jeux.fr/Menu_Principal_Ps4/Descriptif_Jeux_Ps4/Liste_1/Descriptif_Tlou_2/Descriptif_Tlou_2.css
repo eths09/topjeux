@@ -1,0 +1,58 @@
+h1
+{
+    margin-right: -6px;
+    margin-left: -9px;
+    text-align: center;
+    background-size: 12%;
+    background-repeat: repeat-x;
+    background-position-x: -15px;
+    background-position-y: -23px;
+    background-image: url(./Photo/Logo_PlayStation_Touche.png);
+
+}
+img
+{
+    margin-right: -165px;
+    margin-bottom: -145px;
+    margin-left: 437px;
+    padding-bottom: 10px;
+    display: grid;
+    width: 3%;
+}
+body
+{
+    margin-top: 273px;
+}
+nav
+{
+    margin-top: 36px;
+    margin-right: 479px;
+    margin-bottom: 42px;
+    margin-left: 518px;
+    padding-bottom: 293px;
+    padding-left: 50px;
+    background-size: 232px;
+    background-repeat: no-repeat;
+    background-image: url(./Photo/Boitier_Tlou_2.jpg);
+}
+p
+{
+    color: blue;
+    text-align: center;
+}
+.acceuil a:hover
+{
+    color:cyan;
+}
+footer
+{
+    margin-top: 16px;
+    text-align: right;
+}
+html
+{
+    background-size: 100%;
+    margin-top: 26px;
+    background-repeat: no-repeat;
+    background-image: url(./Photo/Background_Noir_Tete_De_mort.jpg);
+}

@@ -1,0 +1,57 @@
+h1
+{
+    text-align: center; 
+    margin-right: -6px;
+    margin-left: -9px;
+    background-size: 12%;
+    background-position-x: -15px;
+    background-position-y: -23px;
+    background-repeat: repeat-x;
+    color: rgb(16, 194, 37);
+}
+body
+{
+    margin-top: 124px;
+    margin-bottom: 24px;
+}
+img
+{
+    margin-top: 30px;
+    margin-right: -207px;
+    margin-bottom: 95px;
+    margin-left: 469px;
+    display: grid;
+    width: 35px;
+}
+nav
+{
+    margin-top: -377px;
+    margin-right: 479px;
+    margin-bottom: 68px;
+    margin-left: 518px;
+    padding-bottom: 384px;
+    padding-left: 50px;
+    background-size: 232px;
+    background-repeat: no-repeat;
+    background-image: url(./photo/jaquette_metro_exodus.jpg);
+}
+p
+{
+    margin-top: -22px;
+    text-align: center;
+    color: #037e0e;
+    text-shadow: azure;
+}
+footer
+{
+   text-align: center; 
+   margin-top: 16px;
+}
+html
+{
+    background-size: 100%;
+    margin-top: -19px; 
+    background-repeat: no-repeat;
+    background-image: url(../descriptif_metro_exodus/photo/background_xbox.jpg);
+    background-repeat: no-repeat;
+}

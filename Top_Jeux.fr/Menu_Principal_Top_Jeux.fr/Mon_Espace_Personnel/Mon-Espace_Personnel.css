@@ -1,0 +1,29 @@
+body
+{
+    color: white;
+}
+img
+{
+    width: 7%;
+    margin: 24px;
+}
+a
+{
+    margin-left: -208px;
+    color: white;
+}
+textarea
+{
+    margin-top: -114px;
+    margin-bottom: 47px;
+    margin-left: -207px;
+}
+footer
+{
+    margin-top: 350px;
+    margin-left: 268px;
+}
+html
+{
+    background-image: url(./photo/Knight.jpg);
+}

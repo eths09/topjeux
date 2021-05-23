@@ -1,0 +1,36 @@
+h1
+{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-align: center;
+    color:#aa0202;
+}
+a
+{
+    color: aliceblue;
+}
+img
+{
+    margin-top: 47px;
+    margin-left: 193px;
+    margin-bottom: -99px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+    width: 12%;
+}
+nav
+{
+    margin-top: 73px;
+}
+html
+{
+    margin-top: 1px;
+    margin-bottom: 0px;
+    margin-left: 1px;
+    padding-bottom: 0px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(./Photo_Top_Jeux_Switch/Background_Design_Switch.png);
+}

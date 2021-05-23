@@ -1,0 +1,73 @@
+h1
+{
+    margin-top: -481px;
+    margin-right: -6px;
+    margin-left: -9px;
+    text-align: center;
+    background-size: 12%;
+    background-repeat: repeat-x;
+    background-position-x: -15px;
+    background-position-y: -23px;
+    background-image: url(../Descriptif_Days_Gone/Photo/Logo_PlayStation_Touche.png);
+}
+body
+{
+    margin-top: 168px;
+}
+nav
+{
+    margin-top: 102px;
+    margin-right: 479px;
+    margin-left: 518px;
+    margin-bottom: 42px;
+    padding-bottom: 293px;
+    padding-left: 50px;
+    background-size: 232px;
+    background-repeat: no-repeat;
+    background-image: url(./Photo/Boitier_Days_Gone_Ps4.jpg);
+}
+img
+{
+    margin-right: -232px;
+    margin-bottom: 78px;
+    margin-left: 420px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width: 44px;
+    display: grid;
+}
+p
+{
+    text-align: center;
+    color: blue;
+}
+.acceuil a:hover
+{
+    color:cyan;
+}
+html
+{
+    background-size: 100%;
+    margin-top: -19px;
+    background-repeat: no-repeat;
+    background-image: url(./Photo/Background_Noir_Tete_De_Mort.jpg);
+}
+
+@media screen and (max-width: 650px)
+{
+    img
+    {
+        width: auto;
+        flex-direction: column;
+    }
+    body
+    {
+        width: auto;
+        flex-direction: column;  
+    }
+    html
+    {
+        width: auto;
+        flex-direction: column;
+    }
+}

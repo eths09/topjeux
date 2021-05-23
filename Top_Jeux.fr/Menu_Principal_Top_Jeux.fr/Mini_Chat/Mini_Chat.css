@@ -1,0 +1,25 @@
+a
+{
+  color: chartreuse;
+}
+nav
+{
+  margin: 11px;
+  padding-left: 8px;
+  border-style: double;
+  color: orange;
+  background-color: black;
+}
+textarea
+{
+  color : orange ;
+  background-color: black;
+}
+footer
+{
+  text-align: center;
+}
+html
+{
+    background-color: gray;
+}

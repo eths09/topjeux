@@ -1,0 +1,29 @@
+header
+{
+    text-align: center;
+}
+p
+{
+    color: black;
+}
+td
+{
+    border: 2px solid ; 
+    background-color: gainsboro;
+}
+th
+{
+    border: 2px solid;
+    background-color: orange;
+}
+footer
+{
+    text-align: center;
+    margin-top: 91px;
+}
+html
+{
+    background-color: grey;
+    background-size: cover;
+    background-image: url(./Photo/Background_Livre.jpg);
+}

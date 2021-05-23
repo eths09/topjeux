@@ -1,0 +1,19 @@
+p
+{
+  color: blue;
+}
+body
+{
+  background-image: url(../Photo_Descriptif_Switch/Background_Jeux_Switch.jpeg);
+}
+img
+{
+  width: 30%;
+  margin-right: 24px;
+  padding-right: 14px;
+  box-shadow: -10px -3px 8px black;
+}
+span
+{
+  text-align: center;
+}

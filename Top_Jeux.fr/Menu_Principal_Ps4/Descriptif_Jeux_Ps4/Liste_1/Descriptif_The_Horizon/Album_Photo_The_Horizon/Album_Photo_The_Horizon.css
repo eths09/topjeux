@@ -1,0 +1,18 @@
+p
+{
+    color: blue
+}
+body
+{
+    background-image: url(./Photo/Background_Noir_Tete_De_Mort.jpg);
+}
+img
+{
+width: 30%;
+margin-right: 24px;
+padding-right: 14px;
+}
+span
+{
+    text-align: center;
+}

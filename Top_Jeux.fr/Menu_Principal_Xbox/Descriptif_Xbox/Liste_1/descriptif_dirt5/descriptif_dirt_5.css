@@ -1,0 +1,54 @@
+h1
+{
+    margin-right: -6px;
+    margin-left: -9px;
+    background-position-x: -15px;
+    background-position-y: -23px;
+    background-size: 12%;
+    background-repeat: repeat-x;
+    text-align: center; 
+    color: rgb(16, 194, 37);
+
+}
+body
+{
+    margin-top: 124px;
+    margin-bottom: 24px;
+}
+img
+{
+    margin-right: -197px;
+    margin-bottom: 93px;
+    margin-left: 469px;
+    display: grid;
+    width: 35px;
+}
+nav
+{
+    margin-top: -372px;
+    margin-right: 479px;
+    margin-bottom: 68px;
+    margin-left: 518px;
+    padding-bottom: 384px;
+    padding-left: 50px;
+    background-size: 232px;
+    background-repeat: no-repeat;
+    background-image: url(./photo/jaquette_dirt_5.jpg);
+}
+p
+{
+    text-align: center;
+    color: #037e0e;
+}
+footer
+{
+   text-align: center; 
+   margin-top: 16px;
+}
+html
+{
+    margin-top: -19px; 
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url(../descriptif_dirt5/photo/background_xbox.jpg);
+}

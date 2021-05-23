@@ -1,0 +1,22 @@
+p
+{
+    color: rgb(20, 117, 11);
+}
+body
+{
+    margin-top: 143px;
+    text-align: center;
+    background-size: 100%;
+    background-image: url(../photo/background_xbox.jpg);
+}
+img
+{
+margin-right: 24px;
+padding-right: 14px;
+width: 30%;
+background-color: #6f4d0f;
+}
+span
+{
+    text-align: center;
+}

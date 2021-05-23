@@ -1,0 +1,21 @@
+p
+{
+    color: blue
+}
+body
+{
+    background-image: url(../Photo_Descriptif_Zelda_Links_Awakening/Background_Jeux_Switch.jpeg);
+}
+img
+{
+    margin-top: 13px;
+    margin-right: -8px;
+    margin-left: 26px;
+    padding-right: 14px;
+    width: 30%;
+    box-shadow: -16px -1px 11px black;
+}
+span
+{
+    text-align: center;
+}

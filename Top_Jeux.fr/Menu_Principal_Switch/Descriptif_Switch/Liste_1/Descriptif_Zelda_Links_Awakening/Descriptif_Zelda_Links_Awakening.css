@@ -1,0 +1,55 @@
+h1
+{
+    margin-right: -6px;
+    margin-left: -9px;
+    text-align: center;
+    background-size: 12%;
+    background-repeat: no-repeat;
+    background-position-x: -15px;
+    background-position-y: -23px;
+    color: crimson;
+}
+header
+{
+    display: grid;
+}
+body
+{
+    margin-top: -5px;
+}
+img
+{
+    width: 35px;
+    margin-right: -207px;
+    margin-bottom: 30px;
+    margin-left: 469px;
+}
+nav
+{
+    margin-top: -188px;
+    margin-right: 479px;
+    margin-bottom: 68px;
+    margin-left: 518px;
+    padding-bottom: 370px;
+    padding-left: 50px;
+    background-size: 232px;
+    background-repeat: no-repeat;
+    background-image: url(./Photo_Descriptif_Zelda_Links_Awakening/Boitier_Zelda_Links_Awakening.jpg);
+}
+p
+{
+    text-align: center;
+    color: #0a4eb3;
+}
+footer
+{
+   text-align: center; 
+   margin-top: 16px;
+}
+html
+{
+    margin-top: -19px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../Descriptif_Zelda_Links_Awakening/Photo_Descriptif_Zelda_Links_Awakening/Background_Jeux_Switch.jpeg);
+}
