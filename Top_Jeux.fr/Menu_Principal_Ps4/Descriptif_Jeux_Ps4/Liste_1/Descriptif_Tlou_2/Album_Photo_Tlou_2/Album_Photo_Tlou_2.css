@@ -1,43 +1,45 @@
 h1
 {
+    margin-right: -6px;
+    margin-left: -9px;
     text-align: center;
-    background-image: url(./Photo/Logo_PlayStation_Touche.png);
     background-size: 12%;
-    background-repeat: repeat-x;
     background-position-x: -15px;
     background-position-y: -23px;
-    margin-left: -9px;
-    margin-right: -6px;
+    background-repeat: repeat-x;
+    background-image: url(./Photo/Logo_PlayStation_Touche.png);
 }
-body
-{
-    margin-top: -20px;
-}
+
 img
 {
-    margin-left: 91px;
-    margin-bottom: -4px;
+    margin-top: 112px;
     margin-right: 11px;
+    margin-bottom: -4px;
+    margin-left: 91px;
     padding-bottom: 1px;
     width: 287px;
-    margin-top: 112px;
+    box-shadow: -6px -4px 6px black;
 }
 nav
 {
     margin-right: 479px;
-    margin-left: 518px;
-    padding-left: 50px;
     margin-bottom: 42px;
+    margin-left: 518px;
     padding-bottom: 293px;
-    background-image: url(../Album_Photo_Tlou_2/Photo/Boitier_Tlou_2.jpg);
+    padding-left: 50px;
     background-size: 232px;
     background-repeat: no-repeat;
+    background-image: url(../Album_Photo_Tlou_2/Photo/Boitier_Tlou_2.jpg);
 }
 p
 {
-    color: blue;
-    text-align: center;
     margin-top: 61px;
+    text-align: center;
+    color: blue;
+}
+body
+{
+    margin-top: -20px;
 }
 .acceuil a:hover
 {
@@ -45,8 +47,8 @@ p
 }
 html
 {
-    background-image: url(../Album_Photo_Tlou_2/Photo/backgroundnoirtetemort.jpg);
+    margin-top: -19px;
     background-size: 100%;
     background-repeat: no-repeat;
-    margin-top: -19px;
+    background-image: url(../Album_Photo_Tlou_2/Photo/backgroundnoirtetemort.jpg);
 }
