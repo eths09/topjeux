@@ -24,7 +24,7 @@
       }  
       if((isset($_POST['pseudo']) AND (trim($_POST['pseudo']) != '')) AND (isset($_POST['commentaire']) AND trim($_POST['commentaire']) != ''))
       {
-      $requete = $bdd->prepare('INSERT INTO mini_chat(pseudo, commentaire) VALUES(?, ?)');
+      $requete = $bdd->prepare('INSERT INTO mini_chat(pseudo, commentaire, date_creation) VALUES(?, ?, NOW())');
       $requete->execute(array($_POST['pseudo'], $_POST['commentaire']));
       }
       else
@@ -35,10 +35,10 @@
       <nav> 
         <?php
           $bdd = new PDO('mysql:host=localhost;dbname=top_jeux.fr', 'root', 'root');
-          $reponse = $bdd->query('SELECT pseudo, commentaire FROM mini_chat LIMIT 20') ;
+          $reponse = $bdd->query('SELECT pseudo, commentaire, date_creation FROM mini_chat LIMIT 20') ;
           while ($donnees = $reponse->fetch())
           { 
-            echo '<p>' . $donnees['pseudo']. ' : '  . $donnees['commentaire'] ; 
+            echo '<p>' . $donnees['pseudo']. ' : '  . $donnees['commentaire']. ' [' . 'envoyer le ' . $donnees['date_creation']. ']'  ; 
           }
         ?>
       </nav>
