@@ -7,7 +7,7 @@ h1
     background-repeat: repeat-x;
     background-position-x: -15px;
     background-position-y: -23px;
-    background-image: url(./Photo/Logo_PlayStation_Touche.png);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Logo_PlayStation_Touche.png);
 
 }
 img
@@ -33,7 +33,7 @@ nav
     padding-left: 50px;
     background-size: 232px;
     background-repeat: no-repeat;
-    background-image: url(./Photo/Boitier_Tlou_2.jpg);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Boitier_Tlou_2.jpg);
 }
 p
 {
@@ -54,5 +54,5 @@ html
     background-size: 100%;
     margin-top: 26px;
     background-repeat: no-repeat;
-    background-image: url(./Photo/Background_Noir_Tete_De_mort.jpg);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Background_Noir_Tete_De_Mort.jpg);
 }

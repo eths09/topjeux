@@ -34,7 +34,7 @@ nav
     padding-left: 50px;
     background-size: 232px;
     background-repeat: no-repeat;
-    background-image: url(./Photo_Descriptif_Switch/Jaquette_Mario_Kart_8_Switch.jpg);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/switch/Boitier_Mario_Kart_8.jpg);
 }
 p
 {
@@ -51,5 +51,5 @@ html
     margin-top: -19px;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image: url(./Photo_Descriptif_Switch/Background_Jeux_Switch.jpeg); 
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/switch/Background_Jeux_Switch.jpeg); 
 }

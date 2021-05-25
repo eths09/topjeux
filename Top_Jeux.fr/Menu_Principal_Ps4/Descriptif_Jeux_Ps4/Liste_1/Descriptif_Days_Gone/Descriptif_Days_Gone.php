@@ -9,9 +9,9 @@ session_start();
     <title>descriptif days gone</title>
   </head>    
   <body>
-    <span class="logophoto"><a href="./Album_Photo_Days_Gone/Album_Photo_Days_Gone.html"><img src="./Photo/Logo_Photo.png" alt="Logo_Appareil_Photo"></a></span>
-    <span class="logovideo"><a href="./Album_Video_Days_Gone/Galerie_Video_Days_Gone.html"><img src="./Photo/Logo_Video.png" alt="Logo_Vidéo"></a></span>
-    <span class="Logo_Amazon"><a href="https://www.amazon.fr/Sony-Days-Gone/dp/B07MWXG7QV/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HIDKPIPTLL8W&dchild=1&keywords=days+gone+ps4&qid=1620577486&sprefix=days+gon%2Caps%2C178&sr=8-1"><img src="./Photo/Logo_Amazon.png" alt="Logo_Amazon"></a></span>
+    <span class="logophoto"><a href="./Album_Photo_Days_Gone/Album_Photo_Days_Gone.html"><img src="../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Logo_Photo.png" alt="Logo_Appareil_Photo"></a></span>
+    <span class="logovideo"><a href="./Album_Video_Days_Gone/Galerie_Video_Days_Gone.html"><img src="../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Logo_Video.png" alt="Logo_Vidéo"></a></span>
+    <span class="Logo_Amazon"><a href="https://www.amazon.fr/Sony-Days-Gone/dp/B07MWXG7QV/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HIDKPIPTLL8W&dchild=1&keywords=days+gone+ps4&qid=1620577486&sprefix=days+gon%2Caps%2C178&sr=8-1"><img src="../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/ps4/Logo_Amazon.png" alt="Logo_Amazon"></a></span>
     <header>
       <h1></strong>*</h1>   
     </header>

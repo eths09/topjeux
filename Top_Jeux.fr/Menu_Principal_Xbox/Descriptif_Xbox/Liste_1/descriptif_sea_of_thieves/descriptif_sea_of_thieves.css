@@ -34,7 +34,7 @@ nav
     padding-left: 50px;
     background-size: 232px;
     background-repeat: no-repeat;
-    background-image: url(./photo/jaquette_sea_of_thieves.jpg);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/xbox/Boitier_Sea_Of_Thieves.jpg);
 }
 p
 {
@@ -51,6 +51,6 @@ html
     background-size: 100%;
     margin-top: -19px; 
     background-repeat: no-repeat;
-    background-image: url(../descriptif_sea_of_thieves/photo/background_xbox.jpg);
+    background-image: url(../../../../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/xbox/background_xbox.jpg);
     background-repeat: no-repeat;
 }
