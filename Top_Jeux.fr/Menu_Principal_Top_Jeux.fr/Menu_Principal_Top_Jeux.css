@@ -6,21 +6,18 @@ h1
     color: yellow;
 }
 nav
-{
-    margin-top: 42px;
-    margin-bottom: 4px;
-    margin-left: -12px;
-    color: #cab523;
+{  
+   color: #cab523;
 }
-nav2
+ul
 {
-    margin-left: 1112px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 p
 {
-    margin-top: 30px;
-    text-align: center;
-    color: yellow;
+  color: yellow;
 }
 img
 {
@@ -28,33 +25,24 @@ img
 }
 body
 {
-    padding-bottom: 0px;
+    padding-bottom: 0;
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url(../Menu_Principal_Top_Jeux.fr/Photo/astronaute.jpg);
 }
-.etoile
+.Acces_Site
 {
-    margin-left: 100px;
-}
-
-nav3
-{
-    text-align: center;
-    margin: -100px;
-}
-footer
-{
-    margin-top: 294px;
+    margin-top: 224px;
+    display: flex;
+    flex-direction: column;
     text-align: center;
 }
-link
-{
-    color: blue;
+.Footer_Text
+{    
+    text-align: center;
 }
 a
 {
     text-decoration: none;
-    color: #cab523;
-    margin-bottom: -16px;
+    color: #cab523;   
 }

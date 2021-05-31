@@ -1,4 +1,7 @@
 <?php
+
+use function PHPSTORM_META\type;
+
 session_start();
 ?>
 <!DOCTYPE html>
@@ -20,7 +23,7 @@ session_start();
         <td>
           <?php
           $bdd = new PDO('mysql:host=localhost;dbname=top_jeux.fr', 'root', 'root');
-          $reponse = $bdd->query('SELECT pseudo, email FROM membres ORDER BY pseudo LIMIT 20') ;
+          $reponse = $bdd->query('SELECT pseudo, email FROM biblio ORDER BY pseudo LIMIT 20') ;
           while ($donnees = $reponse->fetch())
           { 
             echo '<p>' . $donnees['pseudo'] ; 
@@ -30,7 +33,7 @@ session_start();
         <td>
           <?php
           $bdd = new PDO('mysql:host=localhost;dbname=top_jeux.fr', 'root', 'root');
-          $reponse = $bdd->query('SELECT * FROM membres ORDER BY pseudo');
+          $reponse = $bdd->query('SELECT * FROM membres, ORDER BY pseudo');
           while ($donnees = $reponse->fetch())
           { 
             echo '<p>' . $donnees['email'] ; 
