@@ -11,8 +11,9 @@ nav
 }
 ul
 {
+    height: 206px;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
 }
 p
@@ -32,7 +33,7 @@ body
 }
 .Acces_Site
 {
-    margin-top: 224px;
+    margin-top: 63px;
     display: flex;
     flex-direction: column;
     text-align: center;
