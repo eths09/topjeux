@@ -7,12 +7,17 @@ $_SESSION['password'] = 'kangourou' ;
 <html>
   <head>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="Top_Jeux_Switch.css" />
+    <link rel="stylesheet" href="../Menu_Principal_Switch/Top_Jeux_Switch.css">
     <title>topjeuxswitch.fr</title>
   </head>
   <body>
     <header>
       <h1>les meilleurs jeux switch <? if ($_POST['identifiant']== 'eths09') echo $_SESSION['identifiant']; ?></h1>
+      <nav>  
+        <div class="Lien_Acceuil">
+          <a href="../Menu_Principal_Top_Jeux.fr/Menu_Principal_Top_Jeux.php">acceuil</a>
+        </div>
+      </nav>  
     </header>
     <!--photo lien des boitier de jeux switch-->
     <a href="./Descriptif_Switch/Liste_1/Descriptif_Zelda_Links_Awakening/Descriptif_Zelda_Links_Awakening.html"><img src="../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/switch/Boitier_Zelda_Links_Awakening.jpg" alt="photo_Boitier_zelda_links_awakening"></a> 

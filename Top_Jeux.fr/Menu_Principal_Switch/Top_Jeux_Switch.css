@@ -1,3 +1,8 @@
+body
+{
+    margin: 0;
+    height: auto;
+}
 h1
 {
     margin-top: 8px;
@@ -32,5 +37,5 @@ html
     padding-bottom: 0px;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-image: url(../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/switch/Background_Jeux_Switch.jpeg);
+    background-image: url(../Menu_Principal_Top_Jeux.fr/Images_Du_Cite/switch/Background_Design_Switch.png);
 }
