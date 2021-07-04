@@ -9,14 +9,12 @@ $_SESSION['password'] = 'kangourou' ;
     <meta charset="utf-8" />
     <link rel="stylesheet" href="../Menu_Principal_Switch/Top_Jeux_Switch.css">
     <title>topjeuxswitch.fr</title>
+    <p>Yop</p>
   </head>
   <body>
     <header>
       <h1>les meilleurs jeux switch <? if ($_POST['identifiant']== 'eths09') echo $_SESSION['identifiant']; ?></h1>
       <nav>  
-        <div class="Lien_Acceuil">
-          <a href="../Menu_Principal_Top_Jeux.fr/Menu_Principal_Top_Jeux.php">acceuil</a>
-        </div>
       </nav>  
     </header>
     <!--photo lien des boitier de jeux switch-->
